@@ -7,6 +7,15 @@ The design is optimized to track essential details about firefighting gear, mana
 ---
 
 ## 📊 Project Overview
+
+![Dashboard](https://github.com/PatrykPaul/FireShopDB/blob/main/img/diagram.png)
+
+
+![Dashboard](https://github.com/PatrykPaul/FireShopDB/blob/main/img/select.png)
+
+
+![Dashboard](https://github.com/PatrykPaul/FireShopDB/blob/main/img/views.png)
+
 ### 🎯 Objectives
 - 🛠️ Build a robust database schema to support an e-commerce platform.
 - 🔥 Efficiently manage firefighting equipment inventory and product details.
